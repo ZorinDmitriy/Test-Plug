@@ -1,0 +1,8 @@
+C:\Users\zorin\source\repos\TestTypeEntryPlug\bin\Debug\TestTypeEntryPlug.exe.config
+C:\Users\zorin\source\repos\TestTypeEntryPlug\bin\Debug\TestTypeEntryPlug.exe
+C:\Users\zorin\source\repos\TestTypeEntryPlug\bin\Debug\TestTypeEntryPlug.pdb
+C:\Users\zorin\source\repos\TestTypeEntryPlug\obj\Debug\TestTypeEntryPlug.csproj.AssemblyReference.cache
+C:\Users\zorin\source\repos\TestTypeEntryPlug\obj\Debug\TestTypeEntryPlug.csproj.SuggestedBindingRedirects.cache
+C:\Users\zorin\source\repos\TestTypeEntryPlug\obj\Debug\TestTypeEntryPlug.csproj.CoreCompileInputs.cache
+C:\Users\zorin\source\repos\TestTypeEntryPlug\obj\Debug\TestTypeEntryPlug.exe
+C:\Users\zorin\source\repos\TestTypeEntryPlug\obj\Debug\TestTypeEntryPlug.pdb
