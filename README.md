@@ -1,1 +1,1 @@
-# Test Entry Wired Plug
+# Test Entry Plug
